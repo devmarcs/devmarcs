@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcelo Augusto 
+## Olá! Eu sou Marcelo Augusto 
 
 <picture>
   <source
